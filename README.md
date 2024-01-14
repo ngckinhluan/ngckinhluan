@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Ngoc Kinh Luan</h1>
-<h3 align="center">My passion for coding drives me to explore various aspects of software development, from creating web applications to solving complex problems. I am pursuing a degree in Software Engineering at FPT University, where I learn the fundamentals of programming, design, and testing. My goal is to become a back-end developer who can build scalable, secure, and efficient systems.</h3>
+<h3 align="center"> I'm a passionate software engineering student at FPT University. Currently pursuing a degree in Software Engineering, I'm deeply immersed in learning the fundamentals of programming, design, and testing..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngckinhluan&label=Profile%20views&color=0e75b6&style=flat" alt="ngckinhluan" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **luantnkse184059@fpt.edu.vn**
 
-- ⚡ Fun fact **My favorite quote "The things we carry should lift us up, not weigh us down. Memories, love, and hope are the lightest necessities."**
+- ⚡ Fun fact **My favorite quote is "The things we carry should lift us up, not weigh us down. Memories, love, and hope are the lightest necessities."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
