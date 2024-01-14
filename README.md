@@ -2,7 +2,7 @@
 <h3 align="center"> I'm a passionate software engineering student at FPT University. Currently pursuing a degree in Software Engineering, I'm deeply immersed in learning the fundamentals of programming, design, and testing..</h3>
 
 
-- 🔭 I’m currently working on **Flight Airlines Reservation. Ticket**
+- 🔭 I’m currently working on **Flight Airlines Reservation Ticket (built with Java)**, where I'm applying my knowledge to create a robust and efficient system for flight reservations.
 
 - 🌱 I’m currently learning **Java Frameworks, Python, JavaScript,...**
 
