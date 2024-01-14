@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngckinhluan" alt="ngckinhluan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Flight Airlines Reservation. Ticket**
 
 - 🌱 I’m currently learning **Java Frameworks, Python, JavaScript,...**
@@ -18,6 +16,8 @@
 - 💬 Ask me about **Java.**
 
 - 📫 How to reach me **luantnkse184059@fpt.edu.vn**
+
+- ⚡ Fun fact **"The things we carry should lift us up, not weigh us down. Memories, love, and hope are the lightest necessities."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
