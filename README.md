@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **luantnkse184059@fpt.edu.vn**
 
-- ⚡ Fun fact **My favorite quote is "The things we carry should lift us up, not weigh us down. Memories, love, and hope are the lightest necessities."**
+- ⚡ Fun fact: **My favorite quote is "The things we carry should lift us up, not weigh us down. Memories, love, and hope are the lightest necessities."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
