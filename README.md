@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Current Project: Working on a mini capstone project, which involves building a jewelry sales system for a store.<br><br>👯 Collaboration Interests: Looking to collaborate on creating new web application projects, with roles in both front-end and back-end development.<br><br>🤝 Seeking Assistance With: [Please specify what you are looking for help with]<br><br>🌱 Learning Journey: Currently learning new technologies related to both front-end and back-end development.<br><br>💬 Ask Me About: IT, coding, and design patterns.<br><br>⚡ Fun Fact: My favorite quote is "By failing to prepare, you are preparing to fail." – Benjamin Franklin.<br><br>
+🔭 Current Project: Working on a mini capstone project, which involves building a jewelry sales system for a store.<br><br>👯 Collaboration Interests: Looking to collaborate on creating new web application projects, with roles in both front-end and back-end development.<br><br>🌱 Learning Journey: Currently learning new technologies related to both front-end and back-end development.<br><br>💬 Ask Me About: IT, coding, and design patterns.<br><br>⚡ Fun Fact: My favorite quote is "By failing to prepare, you are preparing to fail." – Benjamin Franklin.<br><br>
 
 
 ## 🌐 Socials:
